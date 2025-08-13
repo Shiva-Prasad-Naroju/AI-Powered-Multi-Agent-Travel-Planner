@@ -26,7 +26,9 @@ It orchestrates agents for attractions, itinerary planning, dining, hotels, tran
 
 ### Add your API keys in a .env file:
 GEMINI_API_KEY=your_gemini_api_key
+
 SERPER_API_KEY= your_serper_api_key
+
 GEMINI_API_KEY= your_gemini_api_key
 
 Then run : python app.py
@@ -89,9 +91,13 @@ Explore Delhi’s rich cultural heritage within a moderate budget.
 Day 1:
 
 Summary: Explore Red Fort and nearby markets.
+
 Meals:
+
   Breakfast: Cafe XYZ
+  
   Lunch: Restaurant ABC
+  
   Dinner: Street food at Chandni Chowk
 
 Day 2:
