@@ -6,7 +6,7 @@ It orchestrates agents for attractions, itinerary planning, dining, hotels, tran
 
 ---
 
-## 🚀 Features
+### 🚀 Features
 
 - **Attractions Research Agent**: Finds the best attractions matching traveler preferences and budget.
 
@@ -24,7 +24,7 @@ It orchestrates agents for attractions, itinerary planning, dining, hotels, tran
 
 ---
 
-## Add your API keys in a .env file:
+### Add your API keys in a .env file:
 GEMINI_API_KEY=your_gemini_api_key
 SERPER_API_KEY= your_serper_api_key
 GEMINI_API_KEY= your_gemini_api_key
@@ -33,7 +33,7 @@ Then run : python app.py
 
 ---
 
-## Follow the prompts to enter:
+### Follow the prompts to enter:
 
 - Destination
 
@@ -47,7 +47,7 @@ Then run : python app.py
 
 ---
 
-## The app will:
+### The app will:
 
 - Orchestrate multiple AI agents.
 
@@ -59,25 +59,35 @@ Then run : python app.py
 
 ---
 
-## Output:
+### Output:
 The output would look like:
 
 🏖️ Destination: Delhi
+
 📅 Travel Dates: Nov 5th, 2025
+
 ⏰ Duration: 3 days
+
 🎯 Preferences: Cultural & Museums, Food & Culinary
+
 💰 Budget: Moderate
 
-📝 Overview:
+#### 📝 Overview:
+
 Explore Delhi’s rich cultural heritage within a moderate budget.
 
-🏛️ Highlight Attractions:
+#### 🏛️ Highlight Attractions:
+
 • Red Fort: Iconic Mughal fort.
+
 • Qutub Minar: UNESCO World Heritage site.
+
 • Chandni Chowk: Local food and markets.
 
-📅 Daily Itinerary:
+#### 📅 Daily Itinerary:
+
 Day 1:
+
 Summary: Explore Red Fort and nearby markets.
 Meals:
   Breakfast: Cafe XYZ
@@ -89,7 +99,7 @@ Day 2:
 
 ---
 
-## 📝 Notes & Tips
+### 📝 Notes & Tips
 
 - Ensure stable internet for API calls.
 
